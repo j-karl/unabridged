@@ -1,0 +1,266 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+list	C:\Users\hp\Desktop\unabridged\css\index.scss	/^$list: #C88282,#7AEBBC,#8E48F5,#FDFF63,#FC119B;$/;"	function	line:1
+@font-face	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@font-face {$/;"	function	line:2
+@font-face	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@font-face {$/;"	function	line:6
+@font-face	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@font-face {$/;"	function	line:10
+@font-face	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@font-face {$/;"	function	line:14
+max-width	C:\Users\hp\Desktop\unabridged\css\index.scss	/^$max-width: 1500px;$/;"	function	line:18
+media-width	C:\Users\hp\Desktop\unabridged\css\index.scss	/^$media-width: 992px;$/;"	function	line:19
+small-width	C:\Users\hp\Desktop\unabridged\css\index.scss	/^$small-width: 768px;$/;"	function	line:20
+min-width	C:\Users\hp\Desktop\unabridged\css\index.scss	/^$min-width: 400px;$/;"	function	line:21
+@mixin onm	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@mixin onm {$/;"	function	line:22
+@media screen and (max-width: $media-width)	C:\Users\hp\Desktop\unabridged\css\index.scss	/^     @media screen and (max-width: $media-width){$/;"	function	line:23
+@mixin ons	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@mixin ons {$/;"	function	line:27
+@media screen and (max-width: $small-width)	C:\Users\hp\Desktop\unabridged\css\index.scss	/^     @media screen and (max-width: $small-width){$/;"	function	line:28
+*	C:\Users\hp\Desktop\unabridged\css\index.scss	/^* {$/;"	function	line:32
+.header	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.header {$/;"	function	line:38
+.nav	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    .nav {$/;"	function	line:46
+.logo	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        .logo {$/;"	function	line:52
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            a {$/;"	function	line:56
+.nav-holder	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        .nav-holder {$/;"	function	line:67
+.xiala	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .xiala {$/;"	function	line:79
+li	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                li {$/;"	function	line:89
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    a {$/;"	function	line:98
+&:hover	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    &:hover {$/;"	function	line:111
+.row	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .row {$/;"	function	line:116
+.nav-holder.active	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        .nav-holder.active {$/;"	function	line:120
+.xiala	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .xiala {$/;"	function	line:127
+.menu	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        .menu {$/;"	function	line:131
+.menu-contact	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .menu-contact {$/;"	function	line:136
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                a {$/;"	function	line:138
+@include ons	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@include ons {$/;"	function	line:153
+.header	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    .header {$/;"	function	line:154
+.nav	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        .nav {$/;"	function	line:155
+.logo	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .logo {$/;"	function	line:157
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                a {$/;"	function	line:158
+.menu	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .menu {$/;"	function	line:165
+.menu-contact	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .menu-contact {$/;"	function	line:166
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    a {$/;"	function	line:167
+#fp-nav	C:\Users\hp\Desktop\unabridged\css\index.scss	/^#fp-nav {$/;"	function	line:181
+ul	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    ul {$/;"	function	line:182
+li	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        li {$/;"	function	line:183
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            a {$/;"	function	line:184
+span.hover-text	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                span.hover-text {$/;"	function	line:195
+&:hover	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                &:hover {$/;"	function	line:212
+.hover-text	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .hover-text {$/;"	function	line:213
+a.active	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            a.active {$/;"	function	line:219
+.banner	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.banner {$/;"	function	line:226
+.section	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    .section {$/;"	function	line:227
+.tableCell	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        .tableCell {$/;"	function	line:231
+.container	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .container {$/;"	function	line:234
+.title0	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .title0 {$/;"	function	line:236
+.animateWord0	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .animateWord0 {$/;"	function	line:244
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    p {$/;"	function	line:247
+.title2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .title2 {$/;"	function	line:252
+.animateWord3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .animateWord3 {$/;"	function	line:258
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    p {$/;"	function	line:261
+.twoscreens	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .twoscreens {$/;"	function	line:268
+.screen1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .screen1 {$/;"	function	line:275
+.screen2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .screen2 {$/;"	function	line:282
+.screen3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .screen3 {$/;"	function	line:290
+.screen4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .screen4 {$/;"	function	line:298
+.title3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .title3 {$/;"	function	line:307
+.animateWord3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .animateWord3 {$/;"	function	line:313
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    p {$/;"	function	line:316
+.typed-cursor	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .typed-cursor {$/;"	function	line:322
+.title4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .title4 {$/;"	function	line:326
+.animateWord4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .animateWord4 {$/;"	function	line:330
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    p {$/;"	function	line:333
+.right-container	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .right-container {$/;"	function	line:340
+div	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    div {$/;"	function	line:348
+.folder1-front	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .folder1-front {$/;"	function	line:354
+.folder1-back	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .folder1-back {$/;"	function	line:361
+.document-1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .document-1 {$/;"	function	line:368
+.folder2-front	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .folder2-front {$/;"	function	line:377
+.folder2-back	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .folder2-back {$/;"	function	line:382
+.folder-logo	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .folder-logo {$/;"	function	line:387
+.folder1-front.ac	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .folder1-front.ac {$/;"	function	line:393
+.folder1-back.ac	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .folder1-back.ac {$/;"	function	line:396
+.title5	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .title5 {$/;"	function	line:400
+.animateWord5	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .animateWord5 {$/;"	function	line:408
+.typed-cursor	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .typed-cursor {$/;"	function	line:411
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    p {$/;"	function	line:414
+.results-container	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .results-container {$/;"	function	line:421
+div	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    div {$/;"	function	line:427
+.result-1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .result-1 {$/;"	function	line:438
+.result-2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .result-2 {$/;"	function	line:442
+.result-3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .result-3 {$/;"	function	line:446
+.result-4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .result-4 {$/;"	function	line:450
+h2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        h2 {$/;"	function	line:455
+.results-container-4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .results-container-4 {$/;"	function	line:466
+.title6	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .title6 {$/;"	function	line:470
+.animateWord6	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .animateWord6 {$/;"	function	line:478
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    p {$/;"	function	line:481
+.content6	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .content6 {$/;"	function	line:485
+.contact-m	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .contact-m {$/;"	function	line:490
+.content-contanier	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .content-contanier {$/;"	function	line:493
+.niki	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .niki {$/;"	function	line:497
+.prot-contanier	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .prot-contanier {$/;"	function	line:503
+.nikitouxiang	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .nikitouxiang {$/;"	function	line:508
+.drewtouxiang	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .drewtouxiang {$/;"	function	line:519
+.description	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .description {$/;"	function	line:531
+.des1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .des1 {$/;"	function	line:535
+h2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                h2 {$/;"	function	line:536
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                p {$/;"	function	line:542
+.contactinfo	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .contactinfo {$/;"	function	line:551
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                p {$/;"	function	line:553
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                    a {$/;"	function	line:556
+&:hover	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                        &:hover {$/;"	function	line:563
+.sendemail	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .sendemail {$/;"	function	line:569
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                a {$/;"	function	line:576
+&:hover	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                &:hover {$/;"	function	line:586
+a:hover	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                    a:hover {$/;"	function	line:588
+.row	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .row {$/;"	function	line:597
+.title1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .title1 {$/;"	function	line:598
+.animateWord1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .animateWord1 {$/;"	function	line:602
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    p {$/;"	function	line:605
+.typed-cursor	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .typed-cursor {$/;"	function	line:611
+.speechBubble	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .speechBubble {$/;"	function	line:615
+div	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    div {$/;"	function	line:619
+.bubble1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .bubble1 {$/;"	function	line:627
+.bubble2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .bubble2 {$/;"	function	line:632
+.bubble3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .bubble3 {$/;"	function	line:637
+.bubble4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .bubble4 {$/;"	function	line:642
+.paper	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .paper {$/;"	function	line:649
+div	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                div {$/;"	function	line:656
+.paper1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .paper1 {$/;"	function	line:667
+.paper2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .paper2 {$/;"	function	line:672
+.paper3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .paper3 {$/;"	function	line:677
+.paper4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .paper4 {$/;"	function	line:682
+#section0	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    #section0 {$/;"	function	line:691
+#section1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    #section1 {$/;"	function	line:696
+#section2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    #section2 {$/;"	function	line:702
+#section3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    #section3 {$/;"	function	line:708
+#section4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    #section4 {$/;"	function	line:713
+#section5	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    #section5 {$/;"	function	line:718
+#section6	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    #section6 {$/;"	function	line:723
+@include ons	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@include ons {$/;"	function	line:729
+.banner	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    .banner {$/;"	function	line:730
+.section	C:\Users\hp\Desktop\unabridged\css\index.scss	/^        .section {$/;"	function	line:731
+.tableCell	C:\Users\hp\Desktop\unabridged\css\index.scss	/^            .tableCell {$/;"	function	line:732
+.container	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .container {$/;"	function	line:733
+h1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    h1 {$/;"	function	line:734
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:736
+.title0	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .title0 {$/;"	function	line:745
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:750
+.title2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .title2 {$/;"	function	line:759
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:763
+.title3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .title3 {$/;"	function	line:770
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:775
+.twoscreens	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .twoscreens {$/;"	function	line:784
+div	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        div {$/;"	function	line:795
+.twoscreens.move	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .twoscreens.move {$/;"	function	line:799
+.twoscreens.moveout	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .twoscreens.moveout {$/;"	function	line:802
+.title4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .title4 {$/;"	function	line:805
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:809
+.right-container	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .right-container {$/;"	function	line:816
+.document-1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .document-1,$/;"	function	line:828
+.folder-logo	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .folder-logo,$/;"	function	line:829
+.folder1-back	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .folder1-back,$/;"	function	line:830
+.folder1-front	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .folder1-front,$/;"	function	line:831
+.folder2-back	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .folder2-back,$/;"	function	line:832
+.folder2-front	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .folder2-front {$/;"	function	line:833
+.right-container.move	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .right-container.move {$/;"	function	line:837
+.right-container.moveOut	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .right-container.moveOut {$/;"	function	line:840
+.title5	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .title5 {$/;"	function	line:843
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:847
+.results-container	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .results-container {$/;"	function	line:854
+div	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        div {$/;"	function	line:857
+.result-1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .result-1,$/;"	function	line:868
+.result-2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .result-2,$/;"	function	line:869
+.result-3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .result-3,$/;"	function	line:870
+.result-4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            .result-4 {$/;"	function	line:871
+h2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            h2 {$/;"	function	line:877
+.results-container-4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .results-container-4 {$/;"	function	line:888
+.title6	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .title6 {$/;"	function	line:892
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:896
+.contact-m	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .contact-m {$/;"	function	line:903
+li	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        li {$/;"	function	line:906
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            a {$/;"	function	line:917
+&:hover	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                            &:hover {$/;"	function	line:925
+a	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                                a {$/;"	function	line:927
+.content-contanier	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .content-contanier {$/;"	function	line:933
+.row	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .row {$/;"	function	line:937
+h1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    h1 {$/;"	function	line:938
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:940
+.title1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .title1 {$/;"	function	line:944
+p	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        p {$/;"	function	line:948
+.speechBubble	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .speechBubble {$/;"	function	line:955
+.bubble1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .bubble1,$/;"	function	line:964
+.bubble2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .bubble2,$/;"	function	line:965
+.bubble3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .bubble3,$/;"	function	line:966
+.bubble4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                        .bubble4 {$/;"	function	line:967
+.speechBubble.move	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .speechBubble.move {$/;"	function	line:971
+.speechBubble.moveOut	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .speechBubble.moveOut {$/;"	function	line:974
+.paper	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                .paper {$/;"	function	line:978
+.paper1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .paper1,$/;"	function	line:979
+.paper2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .paper2,$/;"	function	line:980
+.paper3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .paper3 {$/;"	function	line:981
+.paper4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^                    .paper4 {$/;"	function	line:984
+.typed-cursor	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.typed-cursor {$/;"	function	line:996
+@keyframes blink	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes blink {$/;"	function	line:1004
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1005
+50%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    50% {$/;"	function	line:1008
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1011
+.fadeIn	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.fadeIn {$/;"	function	line:1016
+.fadeOut	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.fadeOut {$/;"	function	line:1019
+.bounceIn	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.bounceIn {$/;"	function	line:1022
+.bounceOut	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.bounceOut {$/;"	function	line:1025
+.moveUpDown	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.moveUpDown {$/;"	function	line:1028
+.moveback	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.moveback {$/;"	function	line:1034
+.fadejin	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.fadejin {$/;"	function	line:1037
+.fadechu	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.fadechu {$/;"	function	line:1042
+.fadeleft	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.fadeleft {$/;"	function	line:1045
+.fadeleftout	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.fadeleftout {$/;"	function	line:1049
+.faderight	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.faderight {$/;"	function	line:1052
+.faderightout	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.faderightout {$/;"	function	line:1056
+@keyframes fadeIn	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes fadeIn {$/;"	function	line:1059
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1060
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1063
+@keyframes fadeOut	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes fadeOut {$/;"	function	line:1067
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1068
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1071
+@keyframes bounceIn	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes bounceIn {$/;"	function	line:1075
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1076
+50%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    50% {$/;"	function	line:1079
+75%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    75% {$/;"	function	line:1082
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1085
+@keyframes bounceOut	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes bounceOut {$/;"	function	line:1089
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1090
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1093
+@keyframes moveUpDown	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes moveUpDown {$/;"	function	line:1097
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1098
+30%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    30% {$/;"	function	line:1102
+60%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    60% {$/;"	function	line:1107
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1112
+@keyframes back	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes back {$/;"	function	line:1118
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1119
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1122
+@keyframes fadejin	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes fadejin {$/;"	function	line:1128
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1129
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1133
+@keyframes fadechu	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes fadechu {$/;"	function	line:1138
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1139
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1143
+@keyframes fadeleft	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes fadeleft {$/;"	function	line:1148
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1149
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1153
+@keyframes fadeleftout	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes fadeleftout {$/;"	function	line:1158
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1159
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1163
+@keyframes faderight	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes faderight {$/;"	function	line:1168
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1169
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1173
+@keyframes fadeleftout	C:\Users\hp\Desktop\unabridged\css\index.scss	/^@keyframes fadeleftout {$/;"	function	line:1178
+0%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    0% {$/;"	function	line:1179
+100%	C:\Users\hp\Desktop\unabridged\css\index.scss	/^    100% {$/;"	function	line:1183
+.animated-1	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.animated-1 {$/;"	function	line:1188
+.animated-2	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.animated-2 {$/;"	function	line:1192
+.animated-3	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.animated-3 {$/;"	function	line:1196
+.animated-4	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.animated-4 {$/;"	function	line:1200
+.animated-5	C:\Users\hp\Desktop\unabridged\css\index.scss	/^.animated-5 {$/;"	function	line:1204
